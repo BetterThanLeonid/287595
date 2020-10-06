@@ -1,6 +1,6 @@
 # Задание 3
 
-<center> <img src=image_2020-10-06_170929.png> </center>
+<center><img src="image_2020-10-06_170929.png" alt="position"></center>
 
 **33.357778S, 151.442750E** --  Беркли Вейл, Нов. Юж. Уэльс, Австралия
 
