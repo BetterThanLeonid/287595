@@ -1,4 +1,4 @@
-
+<title>Garipov Site</title>
 ## Домашнее задание
 
 [Задание 1](task1.md)
