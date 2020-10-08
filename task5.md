@@ -2,9 +2,10 @@
 
 ## [5.1. Find Auto](https://osint-i1.thinkific.com/courses/take/osint-challenge/texts/8211246-question-1)
 
-Place: 231 Las Vegas Blvd N, Las Vegas, NV, USA
-Time: beetwen 5:07 AM and 5:10 AM
-Date: 14 Dec 2017
+1. Place: 231 Las Vegas Blvd N, Las Vegas, NV, USA
+2. Time: beetwen 5:07 AM and 5:10 AM
+3. Date: 14 Dec 2017
+
 GPS: 36.171368, -115.139202
 
 <center><img src="image_2020-10-09_012551.png" alt="Place and time the car of suspect"></center>
