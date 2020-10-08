@@ -10,6 +10,7 @@ GPS: 36.171368, -115.139202
 
 <center><img src="image_2020-10-09_012551.png" alt="Place and time the car of suspect"></center>
 
+
 ## [5.2. Find Webcam](https://osint-i1.thinkific.com/courses/take/osint-challenge/texts/8211270-question-3)
 
 1. Elvis' Wedding Chapel (The Little Vegas Chapel)
